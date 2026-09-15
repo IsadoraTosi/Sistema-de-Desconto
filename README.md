@@ -1,3 +1,6 @@
+![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)
+![GitHub](https://img.shields.io/badge/GitHub-Repositório-black?logo=github)
+
 # Sistema de Desconto
 
 Programa desenvolvido em Python para calcular descontos progressivos de acordo com o valor total da compra.
